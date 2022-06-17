@@ -15,7 +15,7 @@ nao consegui juntar os parecidos
 
 
 ## Retorne a quantidade de prêmios ainda a serem retirados por clientes de cada um dos estabelecimentos **com plano de fidelidade ativo**
-APANHEI MUITO PRA FAZER e ainda ta vindo com estabs com gifts de outros modulos ou fidelidade inativo
+Feito!!! (valeu, Diegão)
 
 ## Retorne todos os clientes que faltam apenas um ponto para que eles consigam ganhar o prêmio do plano fidelidade
 //nao entendi onde achar os pontos do fidelidade, pois no clientfidelities tem mais de um campo com withdrawn
